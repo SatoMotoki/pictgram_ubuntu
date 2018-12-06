@@ -144,5 +144,13 @@ h1, h2 {
       padding-right: 20px;
       padding-left: 20px;
     }
+
+    .nonfavorite {
+      color: red;
+    }
+
+    .favorite {
+      color: silver;
+    }
   }
 }
